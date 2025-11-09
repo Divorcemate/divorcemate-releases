@@ -1,4 +1,4 @@
-# DivorceMate Installers
+# DivorceMate Releases
 
 Public installers and release artifacts for the **DivorceMate** desktop application.
 
